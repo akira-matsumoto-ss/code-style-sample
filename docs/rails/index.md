@@ -1,5 +1,5 @@
 # Rails スタイルガイド
-- [モデル周り](rails/model)
-- [ビュー周り](rails/view)
-- [コントローラー周り](rails/controller)
+- [モデル周り](model.md)
+- [ビュー周り](view.md)
+- [コントローラー周り](controller.md)
 
