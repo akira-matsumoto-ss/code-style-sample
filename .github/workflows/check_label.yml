@@ -8,4 +8,4 @@ jobs:
     runs-on: [ubuntu-latest]
     steps:
       - if: contains(github.event.pull_request.labels.*.name, 'Merge NG')
-        run: exit 1
+        run: false
