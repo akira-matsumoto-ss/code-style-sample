@@ -1,7 +1,7 @@
 name: CheckLabel
 on:
   pull_request:
-    types: ['labeled', 'unlabled']
+    types: ['labeled', 'unlabeled']
 
 jobs:
   MergeNG:
