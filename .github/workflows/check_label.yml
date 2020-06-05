@@ -1,7 +1,7 @@
 name: CheckLabel
 on:
   pull_request:
-    types: [synchronize, labeled, unlabeled]
+    types: [opened, labeled, unlabeled, synchronize]
 
 jobs:
   MergeNG:
